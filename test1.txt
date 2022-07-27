@@ -1,3 +1,7 @@
 wedrftgyhuj
 123456
+<<<<<<< HEAD
 23456
+=======
+
+>>>>>>> origin/main
